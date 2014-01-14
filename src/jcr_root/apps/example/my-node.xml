@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="nt:unstructured"
+    my-string="I'm a string value!"
+    my-many-strings="[One string, two string, three string, four]"
+    my-boolean="{Boolean}true"
+    my-date="{Date}2014-01-14T14:18:24.837-08:00"
+    my-integer="{Long}12345"
+    my-float="{Double}6.789"/>
