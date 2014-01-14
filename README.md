@@ -47,7 +47,7 @@ apps
     |- another_node.xml
 ```
 
-If you wanted to edit a property or the node type of /apps/example, edit apps/example/.content.xml. Take a look at my-node.xml for an example of this.
+If you wanted to edit a property or the node type of `/apps/example`, edit `apps/example/.content.xml`. Take a look at `apps/example/my-node.xml` for an example of this.
 
 ## A note on push vs pull
 
